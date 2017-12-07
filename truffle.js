@@ -13,7 +13,7 @@ var ropstenWallet = Wallet.fromPrivateKey(ropstenPrivateKey);
 var ropstenProvider = new WalletProvider(ropstenWallet, "https://ropsten.infura.io/");
 */
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
+var mnemonic = "rabbit roast ceiling meadow lizard finger account output lobster base copy boat"
 
 module.exports = {
   networks: {

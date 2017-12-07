@@ -203,10 +203,10 @@ contract StandardToken is ERC20, BasicToken {
  * Note they can later distribute these tokens as they wish using `transfer` and other
  * `StandardToken` functions.
  */
-contract SimpleToken is StandardToken {
+contract IquidusToken is StandardToken {
 
   string public constant name = "Iquidus";
-  string public constant symbol = "IQI";
+  string public constant symbol = "iPHP";
   uint8 public constant decimals = 18;
 
   uint256 public constant INITIAL_SUPPLY = 42000000 * (10 ** uint256(decimals));
@@ -214,7 +214,7 @@ contract SimpleToken is StandardToken {
   /**
    * @dev Constructor that gives msg.sender all of existing tokens.
    */
-  function SimpleToken() public {
+  function IquidusToken() public {
     totalSupply = INITIAL_SUPPLY;
     balances[msg.sender] = INITIAL_SUPPLY;
   }

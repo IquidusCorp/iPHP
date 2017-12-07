@@ -201,9 +201,9 @@ contract StandardToken is ERC20, BasicToken {
  * @title SimpleToken
  * @dev Very simple ERC20 Token example, where all tokens are pre-assigned to the creator.
  * Note they can later distribute these tokens as they wish using `transfer` and other
- * `StandardToken` functions.
+ * `StandardToken` functions.   
  */
-contract SimpleToken is StandardToken {
+contract ScentCoinToken is StandardToken {
 
   string public constant name = "Scent Coin";
   string public constant symbol = "SCN";
@@ -214,7 +214,7 @@ contract SimpleToken is StandardToken {
   /**
    * @dev Constructor that gives msg.sender all of existing tokens.
    */
-  function SimpleToken() public {
+  function ScentCoinToken() public {
     totalSupply = INITIAL_SUPPLY;
     balances[msg.sender] = INITIAL_SUPPLY;
   }

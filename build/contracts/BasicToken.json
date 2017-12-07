@@ -80,15 +80,15 @@
       "type": "event"
     }
   ],
-  "bytecode": "0x6060604052341561000f57600080fd5b6104028061001e6000396000f300606060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806318160ddd1461005c57806370a0823114610085578063a9059cbb146100d2575b600080fd5b341561006757600080fd5b61006f61012c565b6040518082815260200191505060405180910390f35b341561009057600080fd5b6100bc600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610132565b6040518082815260200191505060405180910390f35b34156100dd57600080fd5b610112600480803573ffffffffffffffffffffffffffffffffffffffff1690602001909190803590602001909190505061017b565b604051808215151515815260200191505060405180910390f35b60005481565b6000600160008373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020549050919050565b60008073ffffffffffffffffffffffffffffffffffffffff168373ffffffffffffffffffffffffffffffffffffffff16141515156101b857600080fd5b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200190815260200160002054821115151561020657600080fd5b61025882600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020016000205461039f90919063ffffffff16565b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055506102ed82600160008673ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020546103b890919063ffffffff16565b600160008573ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055508273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef846040518082815260200191505060405180910390a36001905092915050565b60008282111515156103ad57fe5b818303905092915050565b60008082840190508381101515156103cc57fe5b80915050929150505600a165627a7a723058209448710be774159d9d81e32ca20815c7e07db0d5a602560b3330318192b0e7510029",
-  "deployedBytecode": "0x606060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806318160ddd1461005c57806370a0823114610085578063a9059cbb146100d2575b600080fd5b341561006757600080fd5b61006f61012c565b6040518082815260200191505060405180910390f35b341561009057600080fd5b6100bc600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610132565b6040518082815260200191505060405180910390f35b34156100dd57600080fd5b610112600480803573ffffffffffffffffffffffffffffffffffffffff1690602001909190803590602001909190505061017b565b604051808215151515815260200191505060405180910390f35b60005481565b6000600160008373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020549050919050565b60008073ffffffffffffffffffffffffffffffffffffffff168373ffffffffffffffffffffffffffffffffffffffff16141515156101b857600080fd5b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200190815260200160002054821115151561020657600080fd5b61025882600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020016000205461039f90919063ffffffff16565b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055506102ed82600160008673ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020546103b890919063ffffffff16565b600160008573ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055508273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef846040518082815260200191505060405180910390a36001905092915050565b60008282111515156103ad57fe5b818303905092915050565b60008082840190508381101515156103cc57fe5b80915050929150505600a165627a7a723058209448710be774159d9d81e32ca20815c7e07db0d5a602560b3330318192b0e7510029",
+  "bytecode": "0x6060604052341561000f57600080fd5b6104028061001e6000396000f300606060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806318160ddd1461005c57806370a0823114610085578063a9059cbb146100d2575b600080fd5b341561006757600080fd5b61006f61012c565b6040518082815260200191505060405180910390f35b341561009057600080fd5b6100bc600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610132565b6040518082815260200191505060405180910390f35b34156100dd57600080fd5b610112600480803573ffffffffffffffffffffffffffffffffffffffff1690602001909190803590602001909190505061017b565b604051808215151515815260200191505060405180910390f35b60005481565b6000600160008373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020549050919050565b60008073ffffffffffffffffffffffffffffffffffffffff168373ffffffffffffffffffffffffffffffffffffffff16141515156101b857600080fd5b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200190815260200160002054821115151561020657600080fd5b61025882600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020016000205461039f90919063ffffffff16565b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055506102ed82600160008673ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020546103b890919063ffffffff16565b600160008573ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055508273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef846040518082815260200191505060405180910390a36001905092915050565b60008282111515156103ad57fe5b818303905092915050565b60008082840190508381101515156103cc57fe5b80915050929150505600a165627a7a723058202663c94a82accf2cabf58da0857411a82e381590679d713bbbbbba4889a652970029",
+  "deployedBytecode": "0x606060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806318160ddd1461005c57806370a0823114610085578063a9059cbb146100d2575b600080fd5b341561006757600080fd5b61006f61012c565b6040518082815260200191505060405180910390f35b341561009057600080fd5b6100bc600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610132565b6040518082815260200191505060405180910390f35b34156100dd57600080fd5b610112600480803573ffffffffffffffffffffffffffffffffffffffff1690602001909190803590602001909190505061017b565b604051808215151515815260200191505060405180910390f35b60005481565b6000600160008373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020549050919050565b60008073ffffffffffffffffffffffffffffffffffffffff168373ffffffffffffffffffffffffffffffffffffffff16141515156101b857600080fd5b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200190815260200160002054821115151561020657600080fd5b61025882600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020016000205461039f90919063ffffffff16565b600160003373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055506102ed82600160008673ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020546103b890919063ffffffff16565b600160008573ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff168152602001908152602001600020819055508273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef846040518082815260200191505060405180910390a36001905092915050565b60008282111515156103ad57fe5b818303905092915050565b60008082840190508381101515156103cc57fe5b80915050929150505600a165627a7a723058202663c94a82accf2cabf58da0857411a82e381590679d713bbbbbba4889a652970029",
   "sourceMap": "1802:951:0:-;;;;;;;;;;;;;;;;;",
   "deployedSourceMap": "1802:951:0:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1471:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2643:107;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2062:379;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1471:26;;;;:::o;2643:107::-;2699:15;2729:8;:16;2738:6;2729:16;;;;;;;;;;;;;;;;2722:23;;2643:107;;;:::o;2062:379::-;2125:4;2160:1;2145:17;;:3;:17;;;;2137:26;;;;;;;;2187:8;:20;2196:10;2187:20;;;;;;;;;;;;;;;;2177:6;:30;;2169:39;;;;;;;;2301:32;2326:6;2301:8;:20;2310:10;2301:20;;;;;;;;;;;;;;;;:24;;:32;;;;:::i;:::-;2278:8;:20;2287:10;2278:20;;;;;;;;;;;;;;;:55;;;;2355:25;2373:6;2355:8;:13;2364:3;2355:13;;;;;;;;;;;;;;;;:17;;:25;;;;:::i;:::-;2339:8;:13;2348:3;2339:13;;;;;;;;;;;;;;;:41;;;;2407:3;2386:33;;2395:10;2386:33;;;2412:6;2386:33;;;;;;;;;;;;;;;;;;2432:4;2425:11;;2062:379;;;;:::o;1072:110::-;1130:7;1157:1;1152;:6;;1145:14;;;;;;1176:1;1172;:5;1165:12;;1072:110;;;;:::o;1186:129::-;1244:7;1259:9;1275:1;1271;:5;1259:17;;1294:1;1289;:6;;1282:14;;;;;;1309:1;1302:8;;1186:129;;;;;:::o",
-  "source": "pragma solidity ^0.4.18;\n\n\n/**\n * @title Math\n * @dev Assorted math operations\n */\n\nlibrary Math {\n  function max64(uint64 a, uint64 b) internal pure returns (uint64) {\n    return a >= b ? a : b;\n  }\n\n  function min64(uint64 a, uint64 b) internal pure returns (uint64) {\n    return a < b ? a : b;\n  }\n\n  function max256(uint256 a, uint256 b) internal pure returns (uint256) {\n    return a >= b ? a : b;\n  }\n\n  function min256(uint256 a, uint256 b) internal pure returns (uint256) {\n    return a < b ? a : b;\n  }\n}\n\n/**\n * @title SafeMath\n * @dev Math operations with safety checks that throw on error\n */\nlibrary SafeMath {\n  function mul(uint256 a, uint256 b) internal pure returns (uint256) {\n    if (a == 0) {\n      return 0;\n    }\n    uint256 c = a * b;\n    assert(c / a == b);\n    return c;\n  }\n\n  function div(uint256 a, uint256 b) internal pure returns (uint256) {\n    // assert(b > 0); // Solidity automatically throws when dividing by 0\n    uint256 c = a / b;\n    // assert(a == b * c + a % b); // There is no case in which this doesn't hold\n    return c;\n  }\n\n  function sub(uint256 a, uint256 b) internal pure returns (uint256) {\n    assert(b <= a);\n    return a - b;\n  }\n\n  function add(uint256 a, uint256 b) internal pure returns (uint256) {\n    uint256 c = a + b;\n    assert(c >= a);\n    return c;\n  }\n}\n\n/**\n * @title ERC20Basic\n * @dev Simpler version of ERC20 interface\n * @dev see https://github.com/ethereum/EIPs/issues/179\n */\ncontract ERC20Basic {\n  uint256 public totalSupply;\n  function balanceOf(address who) public view returns (uint256);\n  function transfer(address to, uint256 value) public returns (bool);\n  event Transfer(address indexed from, address indexed to, uint256 value);\n}\n\n/**\n * @title Basic token\n * @dev Basic version of StandardToken, with no allowances.\n */\ncontract BasicToken is ERC20Basic {\n  using SafeMath for uint256;\n\n  mapping(address => uint256) balances;\n\n  /**\n  * @dev transfer token for a specified address\n  * @param _to The address to transfer to.\n  * @param _value The amount to be transferred.\n  */\n  function transfer(address _to, uint256 _value) public returns (bool) {\n    require(_to != address(0));\n    require(_value <= balances[msg.sender]);\n\n    // SafeMath.sub will throw if there is not enough balance.\n    balances[msg.sender] = balances[msg.sender].sub(_value);\n    balances[_to] = balances[_to].add(_value);\n    Transfer(msg.sender, _to, _value);\n    return true;\n  }\n\n  /**\n  * @dev Gets the balance of the specified address.\n  * @param _owner The address to query the the balance of.\n  * @return An uint256 representing the amount owned by the passed address.\n  */\n  function balanceOf(address _owner) public view returns (uint256 balance) {\n    return balances[_owner];\n  }\n\n}\n\n/**\n * @title ERC20 interface\n * @dev see https://github.com/ethereum/EIPs/issues/20\n */\ncontract ERC20 is ERC20Basic {\n  function allowance(address owner, address spender) public view returns (uint256);\n  function transferFrom(address from, address to, uint256 value) public returns (bool);\n  function approve(address spender, uint256 value) public returns (bool);\n  event Approval(address indexed owner, address indexed spender, uint256 value);\n}\n\n/**\n * @title Standard ERC20 token\n *\n * @dev Implementation of the basic standard token.\n * @dev https://github.com/ethereum/EIPs/issues/20\n * @dev Based on code by FirstBlood: https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol\n */\ncontract StandardToken is ERC20, BasicToken {\n\n  mapping (address => mapping (address => uint256)) internal allowed;\n\n\n  /**\n   * @dev Transfer tokens from one address to another\n   * @param _from address The address which you want to send tokens from\n   * @param _to address The address which you want to transfer to\n   * @param _value uint256 the amount of tokens to be transferred\n   */\n  function transferFrom(address _from, address _to, uint256 _value) public returns (bool) {\n    require(_to != address(0));\n    require(_value <= balances[_from]);\n    require(_value <= allowed[_from][msg.sender]);\n\n    balances[_from] = balances[_from].sub(_value);\n    balances[_to] = balances[_to].add(_value);\n    allowed[_from][msg.sender] = allowed[_from][msg.sender].sub(_value);\n    Transfer(_from, _to, _value);\n    return true;\n  }\n\n  /**\n   * @dev Approve the passed address to spend the specified amount of tokens on behalf of msg.sender.\n   *\n   * Beware that changing an allowance with this method brings the risk that someone may use both the old\n   * and the new allowance by unfortunate transaction ordering. One possible solution to mitigate this\n   * race condition is to first reduce the spender's allowance to 0 and set the desired value afterwards:\n   * https://github.com/ethereum/EIPs/issues/20#issuecomment-263524729\n   * @param _spender The address which will spend the funds.\n   * @param _value The amount of tokens to be spent.\n   */\n  function approve(address _spender, uint256 _value) public returns (bool) {\n    allowed[msg.sender][_spender] = _value;\n    Approval(msg.sender, _spender, _value);\n    return true;\n  }\n\n  /**\n   * @dev Function to check the amount of tokens that an owner allowed to a spender.\n   * @param _owner address The address which owns the funds.\n   * @param _spender address The address which will spend the funds.\n   * @return A uint256 specifying the amount of tokens still available for the spender.\n   */\n  function allowance(address _owner, address _spender) public view returns (uint256) {\n    return allowed[_owner][_spender];\n  }\n\n  /**\n   * approve should be called when allowed[_spender] == 0. To increment\n   * allowed value is better to use this function to avoid 2 calls (and wait until\n   * the first transaction is mined)\n   * From MonolithDAO Token.sol\n   */\n  function increaseApproval(address _spender, uint _addedValue) public returns (bool) {\n    allowed[msg.sender][_spender] = allowed[msg.sender][_spender].add(_addedValue);\n    Approval(msg.sender, _spender, allowed[msg.sender][_spender]);\n    return true;\n  }\n\n  function decreaseApproval(address _spender, uint _subtractedValue) public returns (bool) {\n    uint oldValue = allowed[msg.sender][_spender];\n    if (_subtractedValue > oldValue) {\n      allowed[msg.sender][_spender] = 0;\n    } else {\n      allowed[msg.sender][_spender] = oldValue.sub(_subtractedValue);\n    }\n    Approval(msg.sender, _spender, allowed[msg.sender][_spender]);\n    return true;\n  }\n\n}\n\n/**\n * @title SimpleToken\n * @dev Very simple ERC20 Token example, where all tokens are pre-assigned to the creator.\n * Note they can later distribute these tokens as they wish using `transfer` and other\n * `StandardToken` functions.\n */\ncontract SimpleToken is StandardToken {\n\n  string public constant name = \"Iquidus\";\n  string public constant symbol = \"IQI\";\n  uint8 public constant decimals = 18;\n\n  uint256 public constant INITIAL_SUPPLY = 10000 * (10 ** uint256(decimals));\n\n  /**\n   * @dev Constructor that gives msg.sender all of existing tokens.\n   */\n  function SimpleToken() public {\n    totalSupply = INITIAL_SUPPLY;\n    balances[msg.sender] = INITIAL_SUPPLY;\n  }\n\n}\n\n",
-  "sourcePath": "/Users/chris/iquidus/contracts/SimpleToken.sol",
+  "source": "pragma solidity ^0.4.18;\n\n\n/**\n * @title Math\n * @dev Assorted math operations\n */\n\nlibrary Math {\n  function max64(uint64 a, uint64 b) internal pure returns (uint64) {\n    return a >= b ? a : b;\n  }\n\n  function min64(uint64 a, uint64 b) internal pure returns (uint64) {\n    return a < b ? a : b;\n  }\n\n  function max256(uint256 a, uint256 b) internal pure returns (uint256) {\n    return a >= b ? a : b;\n  }\n\n  function min256(uint256 a, uint256 b) internal pure returns (uint256) {\n    return a < b ? a : b;\n  }\n}\n\n/**\n * @title SafeMath\n * @dev Math operations with safety checks that throw on error\n */\nlibrary SafeMath {\n  function mul(uint256 a, uint256 b) internal pure returns (uint256) {\n    if (a == 0) {\n      return 0;\n    }\n    uint256 c = a * b;\n    assert(c / a == b);\n    return c;\n  }\n\n  function div(uint256 a, uint256 b) internal pure returns (uint256) {\n    // assert(b > 0); // Solidity automatically throws when dividing by 0\n    uint256 c = a / b;\n    // assert(a == b * c + a % b); // There is no case in which this doesn't hold\n    return c;\n  }\n\n  function sub(uint256 a, uint256 b) internal pure returns (uint256) {\n    assert(b <= a);\n    return a - b;\n  }\n\n  function add(uint256 a, uint256 b) internal pure returns (uint256) {\n    uint256 c = a + b;\n    assert(c >= a);\n    return c;\n  }\n}\n\n/**\n * @title ERC20Basic\n * @dev Simpler version of ERC20 interface\n * @dev see https://github.com/ethereum/EIPs/issues/179\n */\ncontract ERC20Basic {\n  uint256 public totalSupply;\n  function balanceOf(address who) public view returns (uint256);\n  function transfer(address to, uint256 value) public returns (bool);\n  event Transfer(address indexed from, address indexed to, uint256 value);\n}\n\n/**\n * @title Basic token\n * @dev Basic version of StandardToken, with no allowances.\n */\ncontract BasicToken is ERC20Basic {\n  using SafeMath for uint256;\n\n  mapping(address => uint256) balances;\n\n  /**\n  * @dev transfer token for a specified address\n  * @param _to The address to transfer to.\n  * @param _value The amount to be transferred.\n  */\n  function transfer(address _to, uint256 _value) public returns (bool) {\n    require(_to != address(0));\n    require(_value <= balances[msg.sender]);\n\n    // SafeMath.sub will throw if there is not enough balance.\n    balances[msg.sender] = balances[msg.sender].sub(_value);\n    balances[_to] = balances[_to].add(_value);\n    Transfer(msg.sender, _to, _value);\n    return true;\n  }\n\n  /**\n  * @dev Gets the balance of the specified address.\n  * @param _owner The address to query the the balance of.\n  * @return An uint256 representing the amount owned by the passed address.\n  */\n  function balanceOf(address _owner) public view returns (uint256 balance) {\n    return balances[_owner];\n  }\n\n}\n\n/**\n * @title ERC20 interface\n * @dev see https://github.com/ethereum/EIPs/issues/20\n */\ncontract ERC20 is ERC20Basic {\n  function allowance(address owner, address spender) public view returns (uint256);\n  function transferFrom(address from, address to, uint256 value) public returns (bool);\n  function approve(address spender, uint256 value) public returns (bool);\n  event Approval(address indexed owner, address indexed spender, uint256 value);\n}\n\n/**\n * @title Standard ERC20 token\n *\n * @dev Implementation of the basic standard token.\n * @dev https://github.com/ethereum/EIPs/issues/20\n * @dev Based on code by FirstBlood: https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol\n */\ncontract StandardToken is ERC20, BasicToken {\n\n  mapping (address => mapping (address => uint256)) internal allowed;\n\n\n  /**\n   * @dev Transfer tokens from one address to another\n   * @param _from address The address which you want to send tokens from\n   * @param _to address The address which you want to transfer to\n   * @param _value uint256 the amount of tokens to be transferred\n   */\n  function transferFrom(address _from, address _to, uint256 _value) public returns (bool) {\n    require(_to != address(0));\n    require(_value <= balances[_from]);\n    require(_value <= allowed[_from][msg.sender]);\n\n    balances[_from] = balances[_from].sub(_value);\n    balances[_to] = balances[_to].add(_value);\n    allowed[_from][msg.sender] = allowed[_from][msg.sender].sub(_value);\n    Transfer(_from, _to, _value);\n    return true;\n  }\n\n  /**\n   * @dev Approve the passed address to spend the specified amount of tokens on behalf of msg.sender.\n   *\n   * Beware that changing an allowance with this method brings the risk that someone may use both the old\n   * and the new allowance by unfortunate transaction ordering. One possible solution to mitigate this\n   * race condition is to first reduce the spender's allowance to 0 and set the desired value afterwards:\n   * https://github.com/ethereum/EIPs/issues/20#issuecomment-263524729\n   * @param _spender The address which will spend the funds.\n   * @param _value The amount of tokens to be spent.\n   */\n  function approve(address _spender, uint256 _value) public returns (bool) {\n    allowed[msg.sender][_spender] = _value;\n    Approval(msg.sender, _spender, _value);\n    return true;\n  }\n\n  /**\n   * @dev Function to check the amount of tokens that an owner allowed to a spender.\n   * @param _owner address The address which owns the funds.\n   * @param _spender address The address which will spend the funds.\n   * @return A uint256 specifying the amount of tokens still available for the spender.\n   */\n  function allowance(address _owner, address _spender) public view returns (uint256) {\n    return allowed[_owner][_spender];\n  }\n\n  /**\n   * approve should be called when allowed[_spender] == 0. To increment\n   * allowed value is better to use this function to avoid 2 calls (and wait until\n   * the first transaction is mined)\n   * From MonolithDAO Token.sol\n   */\n  function increaseApproval(address _spender, uint _addedValue) public returns (bool) {\n    allowed[msg.sender][_spender] = allowed[msg.sender][_spender].add(_addedValue);\n    Approval(msg.sender, _spender, allowed[msg.sender][_spender]);\n    return true;\n  }\n\n  function decreaseApproval(address _spender, uint _subtractedValue) public returns (bool) {\n    uint oldValue = allowed[msg.sender][_spender];\n    if (_subtractedValue > oldValue) {\n      allowed[msg.sender][_spender] = 0;\n    } else {\n      allowed[msg.sender][_spender] = oldValue.sub(_subtractedValue);\n    }\n    Approval(msg.sender, _spender, allowed[msg.sender][_spender]);\n    return true;\n  }\n\n}\n\n/**\n * @title SimpleToken\n * @dev Very simple ERC20 Token example, where all tokens are pre-assigned to the creator.\n * Note they can later distribute these tokens as they wish using `transfer` and other\n * `StandardToken` functions.\n */\ncontract IquidusToken is StandardToken {\n\n  string public constant name = \"iPHP\";\n  string public constant symbol = \"iPHP\";\n  uint8 public constant decimals = 18;\n\n  uint256 public constant INITIAL_SUPPLY = 42000000 * (10 ** uint256(decimals));\n\n  /**\n   * @dev Constructor that gives msg.sender all of existing tokens.\n   */\n  function SimpleToken() public {\n    totalSupply = INITIAL_SUPPLY;\n    balances[msg.sender] = INITIAL_SUPPLY;\n  }\n\n}\n\n",
+  "sourcePath": "/Users/chris/iquidus/contracts/Iquidus.sol",
   "ast": {
     "attributes": {
-      "absolutePath": "/Users/chris/iquidus/contracts/SimpleToken.sol",
+      "absolutePath": "/Users/chris/iquidus/contracts/Iquidus.sol",
       "exportedSymbols": {
         "BasicToken": [
           275
@@ -110,6 +110,12 @@
         ],
         "StandardToken": [
           557
+        ],
+        "ScentCoinToken": [
+          1784
+        ],
+        "IquidusToken": [
+          594
         ]
       }
     },
@@ -7819,7 +7825,7 @@
             315,
             193
           ],
-          "name": "SimpleToken",
+          "name": "IquidusToken",
           "scope": 595
         },
         "children": [
@@ -7839,12 +7845,12 @@
                 },
                 "id": 558,
                 "name": "UserDefinedTypeName",
-                "src": "6720:13:0"
+                "src": "6721:13:0"
               }
             ],
             "id": 559,
             "name": "InheritanceSpecifier",
-            "src": "6720:13:0"
+            "src": "6721:13:0"
           },
           {
             "attributes": {
@@ -7864,29 +7870,29 @@
                 },
                 "id": 560,
                 "name": "ElementaryTypeName",
-                "src": "6739:6:0"
+                "src": "6740:6:0"
               },
               {
                 "attributes": {
                   "argumentTypes": null,
-                  "hexvalue": "49717569647573",
+                  "hexvalue": "69504850",
                   "isConstant": false,
                   "isLValue": false,
                   "isPure": true,
                   "lValueRequested": false,
                   "subdenomination": null,
                   "token": "string",
-                  "type": "literal_string \"Iquidus\"",
-                  "value": "Iquidus"
+                  "type": "literal_string \"iPHP\"",
+                  "value": "iPHP"
                 },
                 "id": 561,
                 "name": "Literal",
-                "src": "6769:9:0"
+                "src": "6770:6:0"
               }
             ],
             "id": 562,
             "name": "VariableDeclaration",
-            "src": "6739:39:0"
+            "src": "6740:36:0"
           },
           {
             "attributes": {
@@ -7906,29 +7912,29 @@
                 },
                 "id": 563,
                 "name": "ElementaryTypeName",
-                "src": "6782:6:0"
+                "src": "6780:6:0"
               },
               {
                 "attributes": {
                   "argumentTypes": null,
-                  "hexvalue": "495149",
+                  "hexvalue": "69504850",
                   "isConstant": false,
                   "isLValue": false,
                   "isPure": true,
                   "lValueRequested": false,
                   "subdenomination": null,
                   "token": "string",
-                  "type": "literal_string \"IQI\"",
-                  "value": "IQI"
+                  "type": "literal_string \"iPHP\"",
+                  "value": "iPHP"
                 },
                 "id": 564,
                 "name": "Literal",
-                "src": "6814:5:0"
+                "src": "6812:6:0"
               }
             ],
             "id": 565,
             "name": "VariableDeclaration",
-            "src": "6782:37:0"
+            "src": "6780:38:0"
           },
           {
             "attributes": {
@@ -7948,7 +7954,7 @@
                 },
                 "id": 566,
                 "name": "ElementaryTypeName",
-                "src": "6823:5:0"
+                "src": "6822:5:0"
               },
               {
                 "attributes": {
@@ -7965,12 +7971,12 @@
                 },
                 "id": 567,
                 "name": "Literal",
-                "src": "6856:2:0"
+                "src": "6855:2:0"
               }
             ],
             "id": 568,
             "name": "VariableDeclaration",
-            "src": "6823:35:0"
+            "src": "6822:35:0"
           },
           {
             "attributes": {
@@ -7990,7 +7996,7 @@
                 },
                 "id": 569,
                 "name": "ElementaryTypeName",
-                "src": "6863:7:0"
+                "src": "6862:7:0"
               },
               {
                 "attributes": {
@@ -8010,19 +8016,19 @@
                   {
                     "attributes": {
                       "argumentTypes": null,
-                      "hexvalue": "3130303030",
+                      "hexvalue": "3432303030303030",
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "subdenomination": null,
                       "token": "number",
-                      "type": "int_const 10000",
-                      "value": "10000"
+                      "type": "int_const 42000000",
+                      "value": "42000000"
                     },
                     "id": 570,
                     "name": "Literal",
-                    "src": "6904:5:0"
+                    "src": "6903:8:0"
                   },
                   {
                     "attributes": {
@@ -8065,7 +8071,7 @@
                             },
                             "id": 571,
                             "name": "Literal",
-                            "src": "6913:2:0"
+                            "src": "6915:2:0"
                           },
                           {
                             "attributes": {
@@ -8099,7 +8105,7 @@
                                 },
                                 "id": 572,
                                 "name": "ElementaryTypeNameExpression",
-                                "src": "6919:7:0"
+                                "src": "6921:7:0"
                               },
                               {
                                 "attributes": {
@@ -8113,38 +8119,38 @@
                                 },
                                 "id": 573,
                                 "name": "Identifier",
-                                "src": "6927:8:0"
+                                "src": "6929:8:0"
                               }
                             ],
                             "id": 574,
                             "name": "FunctionCall",
-                            "src": "6919:17:0"
+                            "src": "6921:17:0"
                           }
                         ],
                         "id": 575,
                         "name": "BinaryOperation",
-                        "src": "6913:23:0"
+                        "src": "6915:23:0"
                       }
                     ],
                     "id": 576,
                     "name": "TupleExpression",
-                    "src": "6912:25:0"
+                    "src": "6914:25:0"
                   }
                 ],
                 "id": 577,
                 "name": "BinaryOperation",
-                "src": "6904:33:0"
+                "src": "6903:36:0"
               }
             ],
             "id": 578,
             "name": "VariableDeclaration",
-            "src": "6863:74:0"
+            "src": "6862:77:0"
           },
           {
             "attributes": {
               "constant": false,
               "implemented": true,
-              "isConstructor": true,
+              "isConstructor": false,
               "modifiers": [
                 null
               ],
@@ -8165,7 +8171,7 @@
                 "children": [],
                 "id": 579,
                 "name": "ParameterList",
-                "src": "7042:2:0"
+                "src": "7044:2:0"
               },
               {
                 "attributes": {
@@ -8176,7 +8182,7 @@
                 "children": [],
                 "id": 580,
                 "name": "ParameterList",
-                "src": "7052:0:0"
+                "src": "7054:0:0"
               },
               {
                 "children": [
@@ -8205,7 +8211,7 @@
                             },
                             "id": 581,
                             "name": "Identifier",
-                            "src": "7058:11:0"
+                            "src": "7060:11:0"
                           },
                           {
                             "attributes": {
@@ -8219,17 +8225,17 @@
                             },
                             "id": 582,
                             "name": "Identifier",
-                            "src": "7072:14:0"
+                            "src": "7074:14:0"
                           }
                         ],
                         "id": 583,
                         "name": "Assignment",
-                        "src": "7058:28:0"
+                        "src": "7060:28:0"
                       }
                     ],
                     "id": 584,
                     "name": "ExpressionStatement",
-                    "src": "7058:28:0"
+                    "src": "7060:28:0"
                   },
                   {
                     "children": [
@@ -8266,7 +8272,7 @@
                                 },
                                 "id": 585,
                                 "name": "Identifier",
-                                "src": "7092:8:0"
+                                "src": "7094:8:0"
                               },
                               {
                                 "attributes": {
@@ -8292,17 +8298,17 @@
                                     },
                                     "id": 586,
                                     "name": "Identifier",
-                                    "src": "7101:3:0"
+                                    "src": "7103:3:0"
                                   }
                                 ],
                                 "id": 587,
                                 "name": "MemberAccess",
-                                "src": "7101:10:0"
+                                "src": "7103:10:0"
                               }
                             ],
                             "id": 588,
                             "name": "IndexAccess",
-                            "src": "7092:20:0"
+                            "src": "7094:20:0"
                           },
                           {
                             "attributes": {
@@ -8316,37 +8322,37 @@
                             },
                             "id": 589,
                             "name": "Identifier",
-                            "src": "7115:14:0"
+                            "src": "7117:14:0"
                           }
                         ],
                         "id": 590,
                         "name": "Assignment",
-                        "src": "7092:37:0"
+                        "src": "7094:37:0"
                       }
                     ],
                     "id": 591,
                     "name": "ExpressionStatement",
-                    "src": "7092:37:0"
+                    "src": "7094:37:0"
                   }
                 ],
                 "id": 592,
                 "name": "Block",
-                "src": "7052:82:0"
+                "src": "7054:82:0"
               }
             ],
             "id": 593,
             "name": "FunctionDefinition",
-            "src": "7022:112:0"
+            "src": "7024:112:0"
           }
         ],
         "id": 594,
         "name": "ContractDefinition",
-        "src": "6696:441:0"
+        "src": "6696:443:0"
       }
     ],
     "id": 595,
     "name": "SourceUnit",
-    "src": "0:7139:0"
+    "src": "0:7141:0"
   },
   "compiler": {
     "name": "solc",
@@ -8354,5 +8360,5 @@
   },
   "networks": {},
   "schemaVersion": "1.0.1",
-  "updatedAt": "2017-12-07T02:35:10.429Z"
+  "updatedAt": "2017-12-07T07:46:25.905Z"
 }

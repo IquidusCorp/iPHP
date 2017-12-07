@@ -2,5 +2,5 @@
 testrpc \
 	--deterministic \
 	--accounts 5 \
-	--mnemonic "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat" \
+	--mnemonic "rabbit roast ceiling meadow lizard finger account output lobster base copy boat" \
 &
